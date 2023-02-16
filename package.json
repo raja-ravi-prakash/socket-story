@@ -1,0 +1,18 @@
+{
+  "name": "socket-story",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "net": "^1.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
